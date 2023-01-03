@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://hikson7.github.io/hiko_and_autons/sitemap.xml
